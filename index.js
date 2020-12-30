@@ -1,6 +1,6 @@
 var scheme = /^[a-zA-Z][a-zA-Z0-9\+\-\.]*$/ // http://tools.ietf.org/html/rfc3986 Appendix A
 var Promise = require('polyfill-promise')
-var edge = require('pr-edge')
+var edge = require('electron-edge-js')
 
 var getE = edge(function () {/*
   using Microsoft.Win32;
