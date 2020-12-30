@@ -21,6 +21,7 @@
     "mochi": "0.3.0"
   },
   "dependencies": {
+    "electron-edge-js": "^12.18.4",
     "polyfill-promise": "^4.0.0",
     "pr-edge": "^1.0.0"
   }
